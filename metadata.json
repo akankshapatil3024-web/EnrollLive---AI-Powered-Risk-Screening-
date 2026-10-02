@@ -1,0 +1,6 @@
+{
+  "name": "EnrollLive - Predictive Hospital Readmission Risk Screening",
+  "description": "AI-Powered Predictive Hospital Readmission Risk Screening and Decision-Making Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
